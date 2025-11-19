@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hello, I'm Nicky — a tech-savvy professional with a strong foundation in IT hardware and software sales. 🚀 As I evolve in the tech world, I'm harnessing my analytical skills and deepening my expertise in cloud technologies. I'm passionate about driving innovation and leveraging technology to solve complex problems. 📊☁️ Let's build the future, one cloud at a time!
-
+Hello, I'm Nicky — an IT Coordinator with a strong foundation in cloud technologies (Azure, GCP), ITIL 4, and project coordination. 🔗 I excel at translating complex technical requirements into scalable solutions, coordinating cross-functional teams, and delivering projects that drive business value. Currently expanding my skills in machine learning and data engineer to support data-driven decision-making. 📊☁️ Let's build smarter solutions together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sekos) 
