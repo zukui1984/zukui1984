@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Nicky — an IT Coordinator with a strong foundation in cloud technologies (Azure, GCP), ITIL 4, and project coordination. 🔗 I excel at translating complex technical requirements into scalable solutions, coordinating cross-functional teams, and delivering projects that drive business value. Currently expanding my skills in machine learning and data engineer to support data-driven decision-making. 📊☁️ Let's build smarter solutions together!
+Hello, I'm Nicky — an IT Coordinator with a strong foundation in cloud technologies (Azure, GCP), ITIL 4, and workflow automation. ⚙️ Certified in Make, Airtable, n8n, and Asana, I bridge the gap between business and technology by transforming complex requirements into efficient, scalable, and automated solutions. Skilled in project coordination and cross-functional collaboration, I deliver process improvements that enhance productivity and drive business value. Currently expanding my expertise in machine learning and data engineering to enable smarter, data‑driven decision‑making. 📊☁️ Let’s build intelligent, automated solutions together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sekos) 
