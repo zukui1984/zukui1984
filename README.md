@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello, I'm Nicky — an IT Coordinator with a strong foundation in cloud technologies (Azure, GCP), ITIL 4, and workflow automation. ⚙️ Certified in Make, Airtable, n8n, and Asana, I bridge the gap between business and technology by transforming complex requirements into efficient, scalable, and automated solutions. Skilled in project coordination and cross-functional collaboration, I deliver process improvements that enhance productivity and drive business value. Currently expanding my expertise in machine learning and data engineering to enable smarter, data‑driven decision‑making. 📊☁️ Let’s build intelligent, automated solutions together!
+IT Application Support Specialist based in Cologne, Germany. Five years of incident and service request management under ITIL 4 in a regulated pharmaceutical environment, with a focus on root cause analysis, SQL-based ticket analytics, and clean operational documentation in Jira and Confluence.
+
+Before moving into IT, I spent seven years in international product management and B2B sales, working with ERP systems (MS Dynamics NAV / Business Central). That background is why I tend to start from the business process rather than the tool.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sekos) 
